@@ -1,0 +1,13 @@
+FirstName: John
+LastName: Adams
+Email: JohnAdams@FakeMail.com
+PhoneNumber: 0123456789
+Country: United States
+State: Michigan
+City: Warren
+Street: 1234 RoadName Rd
+ZipCode: 01234
+CreditCardNumber: 1234123412341234
+CreditCardExpireMonth: 11
+CreditCardExpireYear: 11
+CreditCardCVV: 1234

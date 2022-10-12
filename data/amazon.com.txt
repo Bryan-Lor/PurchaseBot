@@ -1,0 +1,23 @@
+AddToCartButtonClass/Name: submit.add-to-cart
+HasAddToCartPopUp: True
+AddToCartPopUpButtonClass: a-button-close a-declarative
+PopUpCheckOutButtonClass:  a-button-close a-declarative
+CheckOutButtonClass:  a-button-close a-declarative
+ShoppingCartURL: https://www.amazon.com/gp/cart/view.html?ref_=nav_cart
+OrderFormURL: None
+OrderButtonClass/Name: proceedToRetailCheckout
+CanFillInfo: False
+FirstNameInputName: None
+LastNameInputName: None
+EmailInputName: None
+CreditCardInputName: None
+CreditCardExpireMonthInputName: None
+CreditCardExpireYearInputName: None
+CreditCardCVVInputName: None
+PhoneNumberInputName: None
+StreetAddressInputName: None
+CityInputName: None
+ZipCodeInputName: None
+SelectCountryName: None
+SelectStateName: None
+ConfirmOrderButtonClass: None

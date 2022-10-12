@@ -1,0 +1,23 @@
+AddToCartButtonClass: btn btn-primary btn-wide
+HasAddToCartPopUp: True
+AddToCartPopUpButtonClass: btn
+PopUpCheckOutButtonClass: btn btn-undefined btn-primary
+CheckOutButtonClass: btn btn-primary btn-wide
+ShoppingCartURL: https://secure.newegg.com/shop/cart
+OrderFormURL: None
+OrderButtonClass: None
+CanFillInfo: False
+FirstNameInputName: None
+LastNameInputName: None
+EmailInputName: None
+CreditCardInputName: None
+CreditCardExpireMonthInputName: None
+CreditCardExpireYearInputName: None
+CreditCardCVVInputName: None
+PhoneNumberInputName: None
+StreetAddressInputName: None
+CityInputName: None
+ZipCodeInputName: None
+SelectCountryName: None
+SelectStateName: None
+ConfirmOrderButtonClass: None

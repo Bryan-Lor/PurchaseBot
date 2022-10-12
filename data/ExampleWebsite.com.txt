@@ -1,0 +1,20 @@
+#This Is A Template To Create Your Own Website txt Data files!
+#Copy And Paste The Below Template
+
+(!!!!!!!!!!! COPY AND PASTE THE LINES BELOW THIS !!!!!!!!!!!)
+AddToCartButtonClass: EnterElementClass
+HasAddToCartPopUp: True/False
+AddToCartPopUpButtonClass: EnterElementClass
+PopUpCheckOutButtonClass: EnterElementClass
+CheckOutButtonClass: EnterElementClass
+ShoppingCartURL: EnterURL
+OrderFormURL: EnterURL
+OrderButtonClass: EnterElementClass
+CanFillInfo: True/False
+CreditCardInputName: EnterElementName
+StreetAddressInputName: EnterElementName
+CityInputName: EnterElementName
+ZipCodeInputName: EnterElementName
+SelectCountryName: EntEnterElementNameerName
+SelectStateName: EnterElementName
+ConfirmOrderButtonClass: EnterElementClass

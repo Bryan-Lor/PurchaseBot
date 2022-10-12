@@ -1,0 +1,23 @@
+AddToCartButtonClass: Button__ButtonWithStyles-y45r97-0 styles__StyledButton-sc-1f2lsll-0 eLsRDh iyUhph
+HasAddToCartPopUp: True
+AddToCartPopUpButtonClass: Button-bwu3xu-0 cNDFOh h-margin-t-tight
+PopUpCheckOutButtonClass: Button-bwu3xu-0 cNDFOh
+CheckOutButtonClass: Link-sc-1khjl8b-0 dJwaza CartLink-bpsbem-0 dTMxNr
+ShoppingCartURL: https://www.target.com/co-cart
+OrderFormURL: https://www.target.com/co-payment
+OrderButtonClass: Button__ButtonWithStyles-y45r97-0 bAbouK sticky-checkout-button
+CanFillInfo: True
+FirstNameInputName: None
+LastNameInputName: None
+EmailInputName: None
+CreditCardInputName: cardnumber
+CreditCardExpireMonthInputName: None
+CreditCardExpireYearInputName: None
+CreditCardCVVInputName: None
+PhoneNumberInputName: bill-phone
+StreetAddressInputName: bill-address
+CityInputName: bill-city
+ZipCodeInputName: bill-postal
+SelectCountryName: bill-country
+SelectStateName: bill-address-level1
+ConfirmOrderButtonClass: Button__ButtonWithStyles-y45r97-0 gBvMfE

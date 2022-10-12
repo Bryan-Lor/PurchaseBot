@@ -1,0 +1,23 @@
+AddToCartButtonClass: button spin-button prod-ProductCTA--primary button--primary
+HasAddToCartPopUp: True
+AddToCartPopUpButtonClass: button ios-primary-btn-touch-fix hide-content-max-m checkoutBtn button--primary
+PopUpCheckOutButtonClass: button ios-primary-btn-touch-fix hide-content-max-m checkoutBtn button--primary
+CheckOutButtonClass: button ios-primary-btn-touch-fix hide-content-max-m checkoutBtn button--primary
+ShoppingCartURL: https://www.walmart.com/cart?source=pac
+OrderFormURL: https://www.walmart.com/checkout
+OrderButtonClass: Button__ButtonWithStyles-y45r97-0 bAbouK sticky-checkout-button
+CanFillInfo: False
+FirstNameInputName: None
+LastNameInputName: None
+EmailInputName: None
+CreditCardInputName: cardnumber
+CreditCardExpireMonthInputName: None
+CreditCardExpireYearInputName: None
+CreditCardCVVInputName: None
+PhoneNumberInputName: bill-phone
+StreetAddressInputName: bill-address
+CityInputName: bill-city
+ZipCodeInputName: bill-postal
+SelectCountryName: bill-country
+SelectStateName: bill-address-level1
+ConfirmOrderButtonClass: Button__ButtonWithStyles-y45r97-0 gBvMfE

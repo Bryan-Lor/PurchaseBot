@@ -1,0 +1,23 @@
+AddToCartButtonClass: btn transparent-orange-button js-analyitics-tag add-to-cart
+HasAddToCartPopUp: False
+AddToCartPopUpButtonClass: None
+PopUpCheckOutButtonClass: None
+CheckOutButtonClass: None
+ShoppingCartURL: https://direct.playstation.com/en-us/checkout?tab=cart
+OrderFormURL: https://direct.playstation.com/en-us/checkout?tab=shipping
+OrderButtonClass: checkout-cta__next
+CanFillInfo: True
+FirstNameInputName: firstName
+LastNameInputName: lastName
+EmailInputName: email
+CreditCardInputName: None
+CreditCardExpireMonthInputName: None
+CreditCardExpireYearInputName: None
+CreditCardCVVInputName: None
+PhoneNumberInputName: phone
+StreetAddressInputName: line1
+CityInputName: town
+ZipCodeInputName: postalCode
+SelectCountryName: None
+SelectStateName: isoCode
+ConfirmOrderButtonClass: None

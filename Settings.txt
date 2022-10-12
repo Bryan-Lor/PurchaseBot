@@ -1,0 +1,11 @@
+DebugMode: False
+LoadPersonalChromeAccount: False
+LoadBotChromeAccount: True
+WaitUntilReady: False
+HideDuringRun: False
+ProceedToCheckOut: True
+ProceedToOrder: True
+FillOutInfo: True
+ConfirmOrder(Currently Disabled!): False
+CustomSounds: True
+DisableSounds: False
