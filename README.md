@@ -33,7 +33,7 @@ running multiple Bots at once without any chrome profile. Although you have to l
 	5. Run the bot!
 
 
-## Known Website Compatibility Issues---------------------------------------------------------------------
+## Known Website Compatibility Issues----------------------------------------------------------------
 Below are the currently known websites that don't work well or at all <br />
 - Walmart.com (NOT WORKING: Has a captcha that appears after refreshing multiple times)<br />
 - Samsclub.com (NOT WORKING: Has a Anti-Bot feature upon arrival and after refreshing multiple times.)<br />
