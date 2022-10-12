@@ -16,18 +16,21 @@ running multiple Bots at once without any chrome profile. Although you have to l
 
 
 ## How To Use ---------------------------------------------------------------------
-	1. Enter your information in the pi.txt in the current format below
+	1. Update the Chrome Path in the py file to your chrome user data location
+		-Typically C:\\Users\\<NAMEHERE>\AppData\\Local\\Google\\Chrome\\User Data
+	
+	2. Enter your information in the pi.txt
 
-	2. Enter the URL Link(s) in the Websites.txt
+	3. Enter the URL Link(s) in the Websites.txt
 		-It is recommended to keep the amount of links per bot low (Recommended Amount: 3)!
 
-	3. For each unique Website you have in your websites, create a .txt file containing the element data in the PurchaseBot\data folder
+	4. For each unique Website you have in your websites, create a .txt file containing the element data in the PurchaseBot\data folder
 		-Use the template given to you! Copy and paste it, then rename it to 'yourwebsitename.com'
 		-Enter all the elements and information into the file
 			-You can find the information needed by inspecting the website and retrieving the element data
 		-save the .txt file
 
-	4. Run the bot!
+	5. Run the bot!
 
 
 ## Known Website Compatibility Issues---------------------------------------------------------------------
