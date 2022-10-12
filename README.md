@@ -2,9 +2,9 @@
 A Simple Bot That Finds Products
 
 ## IMPORTANT ---------------------------------------------------------------------
-This Program was not meant to be used for mass purchasing items. Although it can be used to buy multiple
+This Program was not meant to be used for mass purchasing items. Although it can be used to buy multiples
 products at once, it was only designed for you to make one purchase at a time. (You can work around this by
-running multiple Bots at once without any chrome profile. Although you have to log in to every website each time you start the program).
+running multiple Bots at once without any chrome profile loaded. Although you have to log in to every website every time you start the program).
 
 
 ## Installation ---------------------------------------------------------------------
