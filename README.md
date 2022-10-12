@@ -33,14 +33,14 @@ running multiple Bots at once without any chrome profile. Although you have to l
 	5. Run the bot!
 
 
-## Known Website Compatibility Issues ---------------------------------------------
+## Known Website Compatibility Issues --------------------------------------------
 Below are the currently known websites that don't work well or at all <br />
 - Walmart.com (NOT WORKING: Has a captcha that appears after refreshing multiple times)<br />
 - Samsclub.com (NOT WORKING: Has a Anti-Bot feature upon arrival and after refreshing multiple times.)<br />
 - Direct.playstation.com (NOT WELL: Has a captcha that can appear upon arrival. Simply Do it yourself before running the bot with WaitUntilReady enabled in 		'Settings.txt')<br />
 
 
-## Known Limitations -------------------------------------------------
+## Known Limitations --------------------------------------------------------------
 This Bot will not bypass Captchas, any website with anti-bot catpchas will NOT work!<br />
 This Program DOES NOT SCALE WELL with high numbers of websites! Keep Your Numbers LOW! The more tabs you have, the more CPU Processing and Memory is required!!!<br />
 - Since it runs on Google Chrome, this program is dependent on how fast your CPU is and how much RAM you have<br />
